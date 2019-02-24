@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550939324 source:c:\users\quang nam\documents\graphics\codeblock\thuat-toan-midpoint-ve-duong-tron\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
