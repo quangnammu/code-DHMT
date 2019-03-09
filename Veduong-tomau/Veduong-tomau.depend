@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552106261 source:c:\users\quang nam\documents\graphics\codeblock\veduong-tomau\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+
